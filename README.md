@@ -10,7 +10,7 @@ How To Install:-
 
 3.flash twrp
 
-4.flash the zip file as with any custom rom
+4.flash the zip file just like all roms
 
 5.reboot the device to system
 
