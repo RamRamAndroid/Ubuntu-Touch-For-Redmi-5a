@@ -4,7 +4,7 @@ Actors:
  
  Torchlight = No
  
- Vibration = No
+ Vibration = Yes
 
 Camera:
 
