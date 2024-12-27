@@ -1,5 +1,7 @@
 This is the unofficial port of ubuntu touch xenial for redmi 5a that i made
 
+THIS IS ONLY A DEMO. NO BUGS ARE GOING TO BE PATCHED
+
 See The Features & Usability.md for The List Of What is Working
 
 The Latest Release is in the Releases Tab
