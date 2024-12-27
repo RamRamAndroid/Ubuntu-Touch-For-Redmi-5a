@@ -1,4 +1,4 @@
-This is the unoffical port of ubuntu touch xenial for redmi 5a that i made
+This is the unofficial port of ubuntu touch xenial for redmi 5a that i made
 
 See The Features & Usability.md for The List Of What is Working
 
