@@ -6,6 +6,8 @@ This is the port of ubuntu touch xenial for redmi 5a that i made
 
 ## The Latest Release is in the Releases Tab
 
+## THIS IS NO LONGER BEING MANTAINED
+
 # How To Install:-
 
 1.download the latest release of twrp
